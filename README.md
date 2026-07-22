@@ -21,7 +21,7 @@ I am a Junior Backend / Full-Stack JavaScript Developer based in Port Harcourt, 
 ## 📌 Featured Projects
 
 🚀 **NASA Mission Control**
-React, Node.js, Express, MongoDB, Docker, Jest
+Full-stack mission control dashboard built with React, Node.js, Express, MongoDB, Docker, and Jest. Features launch scheduling, mission history, REST APIs, and production deployment.
 https://github.com/Chima-dan/NASA-PROJECT
 
 🔒 **Security Example**
@@ -38,12 +38,12 @@ https://github.com/Chima-dan/EXPRESS-PROJECT
 
 ## 🌱 Currently Learning
 
-* AWS
-* CI/CD
-* Kubernetes
-* TypeScript
-* GraphQL
-* PostgreQL
+*TypeScript
+*PostgreSQL
+*AWS
+*CI/CD
+*Kubernetes
+*GraphQL
 
 ## 📫 Contact
 
@@ -51,7 +51,15 @@ https://github.com/Chima-dan/EXPRESS-PROJECT
 
 📍 Port Harcourt, Rivers State, Nigeria
 
+****⚡ Fun Facts****
+🧪 Medical Laboratory Scientist transitioning into Software Engineering
+🐳 Enjoy building and containerizing applications with Docker
+📚 Always learning new backend technologies
+☕ Music and debugging make a great combination
 
+**💼** Open to Opportunities****
+
+I'm currently seeking Junior Backend Developer or Full-Stack JavaScript Developer opportunities where I can contribute, learn, and grow while building scalable web applications.
 <!--
 **Chima-dan/Chima-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
