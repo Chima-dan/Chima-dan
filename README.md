@@ -1,53 +1,5 @@
 # Hi, I'm Amaechi Chimauche Daniel 👋
 
-### Junior Backend / Full-Stack JavaScript Developer
-
-I'm a JavaScript developer from Port Harcourt, Nigeria, with a background in Medical Laboratory Science. I enjoy building secure backend systems, REST APIs, and full-stack applications using modern JavaScript technologies.
-
-## 🚀 Tech Stack
-
-* JavaScript (ES6+)
-* Node.js
-* Express.js
-* React
-* MongoDB & Mongoose
-* Docker
-* Jest
-* Git & GitHub
-* JWT
-* Passport.js
-* Helmet
-
-## 📌 Featured Projects
-
-🚀 **NASA Mission Control**
-React, Node.js, Express, MongoDB, Docker, Jest
-https://github.com/Chima-dan/NASA-PROJECT
-
-🔒 **Security Example**
-Node.js authentication with JWT, Passport.js, Helmet, TLS/SSL
-https://github.com/Chima-dan/SECURITY-EXAMPLE
-
-🌍 **Planet Project**
-REST API for processing NASA Kepler planet data
-https://github.com/Chima-dan/PLANET-PROJECT
-
-⚡ **Express Project**
-Express.js backend with REST APIs and middleware
-https://github.com/Chima-dan/EXPRESS-PROJECT
-
-## 🌱 Currently Learning
-
-* AWS
-* CI/CD
-* Kubernetes
-
-## 📫 Contact
-
-📧 [chimaamaechi39@gmail.com](mailto:chimaamaechi39@gmail.com)
-
-📍 Port Harcourt, Rivers State, Nigeria
-## Hi there 👋
 
 <!--
 **Chima-dan/Chima-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
