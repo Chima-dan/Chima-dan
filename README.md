@@ -2,7 +2,7 @@
 
 ### Junior Backend / Full-Stack JavaScript Developer
 
-I'm a JavaScript developer from Port Harcourt, Nigeria, with a background in Medical Laboratory Science. I enjoy building secure backend systems, REST APIs, and full-stack applications using modern JavaScript technologies.
+I am a Junior Backend / Full-Stack JavaScript Developer based in Port Harcourt, Nigeria. I enjoy building scalable REST APIs, secure backend systems, and full-stack web applications with Node.js, Express, React, MongoDB, and Docker. I also have a professional background in Medical Laboratory Science, which strengthened my analytical thinking and problem-solving skills.
 
 ## 🚀 Tech Stack
 
