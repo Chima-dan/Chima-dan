@@ -55,7 +55,7 @@ https://github.com/Chima-dan/EXPRESS-PROJECT
 🧪 Medical Laboratory Scientist transitioning into Software Engineering
 🐳 Enjoy building and containerizing applications with Docker
 📚 Always learning new backend technologies
-☕ Music and debugging make a great combination
+🎵 Music and debugging make a great combination
 
 **💼** Open to Opportunities****
 
