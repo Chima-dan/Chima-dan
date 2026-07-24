@@ -1,8 +1,8 @@
 # Hi, I'm Amaechi Chimauche Daniel 👋
 
-### Junior Backend / Full-Stack JavaScript Developer
+### Backend / Full-Stack JavaScript Developer
 
-I am a Junior Backend / Full-Stack JavaScript Developer based in Port Harcourt, Nigeria. I enjoy building scalable REST APIs, secure backend systems, and full-stack web applications using Node.js, Express, React, MongoDB, and Docker. I also have a professional background in Medical Laboratory Science, which strengthened my analytical thinking and problem-solving skills.
+I am a Backend / Full-Stack JavaScript Developer based in Port Harcourt, Nigeria. I enjoy building scalable REST APIs, secure backend systems, and full-stack web applications using Node.js, Express, React, MongoDB, and Docker. I also have a professional background in Medical Laboratory Science, which strengthened my analytical thinking and problem-solving skills.
 
 ## 🚀 Tech Stack
 
