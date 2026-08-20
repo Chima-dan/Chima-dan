@@ -41,7 +41,6 @@ https://github.com/Chima-dan/EXPRESS-PROJECT
 - TypeScript
 - PostgreSQL
 - AWS
-- CI/CD
 - Kubernetes
 - GraphQL
 
