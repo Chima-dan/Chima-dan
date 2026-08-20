@@ -47,7 +47,9 @@ https://github.com/Chima-dan/EXPRESS-PROJECT
 
 ## 📫 Contact
 
-📧 [chimaamaechi39@gmail.com](mailto:chimaamaechi39@gmail.com)
+📧 chimaamaechi39@gmail.com
+
+☎ +2347068342279
 
 🐙 GitHub: https://github.com/Chima-dan
 
@@ -56,14 +58,14 @@ https://github.com/Chima-dan/EXPRESS-PROJECT
 📍 Port Harcourt, Rivers State, Nigeria
 
 ****⚡ Fun Facts****
-- 🧪 Medical Laboratory Scientist transitioning into Software Engineering
+- 🧪 Medical Laboratory Scientist transitioned into Software Engineering
 - 🐳 Enjoy building and containerizing applications with Docker
 - 📚 Always learning new backend technologies
 - 🎵 Music and debugging make a great combination
 
 💼 Open to Opportunities
 
-I'm currently seeking Junior Backend or Full-Stack JavaScript Developer opportunities where I can contribute to real-world products, continue learning, and grow as a software engineer.
+I'm currently seeking a remote, hybrid or relocation Backend or Full-Stack JavaScript Developer opportunities where I can contribute to real-world products, continue learning, and grow as a software engineer. I am comfortable working across time zones and distributed teams
 <!--
 **Chima-dan/Chima-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
